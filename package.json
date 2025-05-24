@@ -1,6 +1,6 @@
 {
   "name": "@cloud-premises/c-fe-app",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Frontend app generator CLI (React, Next.js, Vite, Gatsby, Docusaurus)",
   "main": "index.js",
   "bin": {
