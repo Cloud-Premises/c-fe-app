@@ -1,0 +1,54 @@
+{
+  "name": "@cloud-premises/c-fe-app",
+  "version": "1.0.5",
+  "description": "Frontend app generator CLI (React, Next.js, Vite, Gatsby, Docusaurus)",
+  "main": "index.js",
+  "bin": {
+    "c-fe-app": "./bin/c-fe-app.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "scripts": {
+    "c-fe-app": "c-fe-app",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "homepage": "https://github.com/cloud-premises/c-fe-app#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cloud-premises/c-fe-app.git"
+  },
+  "pr": {
+    "url": "https://github.com/cloud-premises/c-fe-app/pulls"
+  },
+  "bugs": {
+    "url": "https://github.com/cloud-premises/c-fe-app/issues"
+  },
+  "keywords": [
+    "c-fe-app",
+    "cli",
+    "frontend",
+    "create-app",
+    "react",
+    "next",
+    "vite",
+    "gatsby",
+    "docusaurus",
+    "remix",
+    "preact",
+    "svelte",
+    "vue",
+    "nuxt",
+    "astro",
+    "reactstrap"
+  ],
+  "author": "Cloud Premises",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.0.0"
+  },
+  "type": "module",
+  "publishConfig": {
+    "access": "public"
+  }
+}
