@@ -2,6 +2,58 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.0.8] - 2025-07-07
+
+### Added
+
+- N/A
+
+### Fixed
+
+- npm public access issue fixed.
+
+### Changed
+
+- N/A
+
+### Deprecated
+
+- N/A
+
+### Removed
+
+- N/A
+
+### Security
+
+- N/A
+
+## [1.0.7] - 2025-07-07
+
+### Added
+
+- N/A
+
+### Fixed
+
+- N/A
+
+### Changed
+
+- N/A
+
+### Deprecated
+
+- N/A
+
+### Removed
+
+- N/A
+
+### Security
+
+- N/A
+
 ## [1.0.6] - 2025-06-25
 
 ### Added
